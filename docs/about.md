@@ -11,4 +11,4 @@ I like to make things that have both physical and digital dimensions to them. I 
 <br><br>
 For my day job, I'm currently freelancing as a Creative Coder for various immersive design agencies in the NYC area. I also teach graduate-level courses at schools like Parsons, usually teaching students how to make art, games, and installations with code. When I'm not coding for money, I'm also involved with LiveCode.NYC, a collective of tech artist who use live programming to create audio-visual performances.
 <br><br>
-This website was made using [Vuepress](https://vuepress.vuejs.org/), a static site framework based on [Vue](https://vuejs.org/). The source code for this site can be found here.
+This website was made using [Vuepress](https://vuepress.vuejs.org/), a static site framework based on [Vue](https://vuejs.org/). The source code for this site can be found [here](https://github.com/thatcotter/portfolio-vuepress-source).
